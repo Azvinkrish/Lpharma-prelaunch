@@ -80,11 +80,12 @@ export default function Home() {
         >
           <div className="max-w-7xl mx-auto flex items-center justify-between">
             <div className="flex items-center space-x-4">
-              <div className="w-12 h-12 rounded-full bg-gradient-to-br from-purple-500 to-blue-500 flex items-center justify-center text-xl font-bold">
-                L
-              </div>
               <div>
-                <h1 className="text-2xl font-bold">L Pharma</h1>
+              <img
+                    src="https://ik.imagekit.io/Lpharma/logo/logo-white.png?updatedAt=1755868397401" 
+                    alt="L Pharma Logo"
+                    className="w-28 h-12 rounded-full"
+                  />
                 <p className="text-sm text-gray-400">A division of the Laistung Group</p>
               </div>
             </div>
